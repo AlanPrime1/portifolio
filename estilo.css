@@ -1,0 +1,37 @@
+body{
+
+    text-align: center;
+    font: normal 15pt Arial;
+    background-color: aqua;
+    color:rgb(21, 21, 23)
+    
+
+}
+
+
+
+header{
+   
+text-align: center;
+
+font-style: normal;
+
+}
+
+section{
+    text-align: center;
+    background-color: black;
+    border-radius: 8px;
+    padding: 5px;
+    width: 800px;
+    margin: auto;
+    box-shadow: inset;
+    color: azure;
+}
+
+
+
+footer{
+    text-align: center;
+    color:black
+}
